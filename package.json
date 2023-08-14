@@ -2,7 +2,7 @@
   "name": "reduxtoolkit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Vibs21.github.io/redux-toolkit-vercel-test",
+  "homepage": "https://Vibs21.github.io/redux-toolkit-ghpages-test",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.17.0",
